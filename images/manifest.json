@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/18_Nux_Indica_Tesoro_Messicano/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "18_Nux_Indica_Tesoro_Messicano"
+                ]
+            },
+            "height": 968,
+            "width": 665,
+            "items": [
+                {
+                    "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/18_Nux_Indica_Tesoro_Messicano/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/18_Nux_Indica_Tesoro_Messicano/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/18_Nux_Indica_Tesoro_Messicano/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 21,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 42,
+                                                "height": 61
+                                            },
+                                            {
+                                                "width": 84,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 167,
+                                                "height": 242
+                                            },
+                                            {
+                                                "width": 333,
+                                                "height": 484
+                                            },
+                                            {
+                                                "width": 665,
+                                                "height": 968
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 665,
+                                        "@id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/18_Nux_Indica_Tesoro_Messicano",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 968,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/18_Nux_Indica_Tesoro_Messicano/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/1_Baglione_Vite_Parasole_page1/canvas/",
             "type": "Canvas",
             "label": {
