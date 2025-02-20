@@ -495,6 +495,87 @@
             ]
         },
         {
+            "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs"
+                ]
+            },
+            "height": 2496,
+            "width": 4000,
+            "items": [
+                {
+                    "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 125,
+                                                "height": 78
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 156
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 312
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 624
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 1248
+                                            },
+                                            {
+                                                "width": 4000,
+                                                "height": 2496
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4000,
+                                        "@id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2496,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/8_Girolama_Tempesta_Battle_of_Lapiths_and_Centaurs/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/5_Specchio_delle_virtuose_donne_Isabella_Lavoro_Punto_In_Aria/canvas/",
             "type": "Canvas",
             "label": {
