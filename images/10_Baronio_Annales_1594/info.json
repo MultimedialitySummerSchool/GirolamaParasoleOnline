@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 43,
+    "height" : 66
+  }, {
+    "width" : 86,
+    "height" : 131
+  }, {
+    "width" : 172,
+    "height" : 261
+  }, {
+    "width" : 344,
+    "height" : 521
+  }, {
+    "width" : 688,
+    "height" : 1042
+  }, {
+    "width" : 1376,
+    "height" : 2083
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1376,
+  "@id" : "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/10_Baronio_Annales_1594",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2083
+}
