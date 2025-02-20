@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 160,
+    "height" : 207
+  }, {
+    "width" : 319,
+    "height" : 413
+  }, {
+    "width" : 638,
+    "height" : 825
+  }, {
+    "width" : 1275,
+    "height" : 1650
+  }, {
+    "width" : 2550,
+    "height" : 3300
+  }, {
+    "width" : 5100,
+    "height" : 6600
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5100,
+  "@id" : "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/17_Castore_Durante_Herbario_LP_Bosso_Boxwood",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6600
+}
