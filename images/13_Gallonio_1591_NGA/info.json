@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 97,
+    "height" : 128
+  }, {
+    "width" : 193,
+    "height" : 256
+  }, {
+    "width" : 385,
+    "height" : 512
+  }, {
+    "width" : 769,
+    "height" : 1024
+  }, {
+    "width" : 1537,
+    "height" : 2048
+  }, {
+    "width" : 3073,
+    "height" : 4096
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3073,
+  "@id" : "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/13_Gallonio_1591_NGA",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4096
+}
