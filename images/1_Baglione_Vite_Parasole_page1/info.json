@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 91,
+    "height" : 128
+  }, {
+    "width" : 182,
+    "height" : 256
+  }, {
+    "width" : 363,
+    "height" : 512
+  }, {
+    "width" : 726,
+    "height" : 1024
+  }, {
+    "width" : 1451,
+    "height" : 2048
+  }, {
+    "width" : 2902,
+    "height" : 4096
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2902,
+  "@id" : "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/1_Baglione_Vite_Parasole_page1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4096
+}
