@@ -333,6 +333,87 @@
             ]
         },
         {
+            "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/16_Il_modo_di_scrivere_Curione_LP_Alphabet/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "16_Il_modo_di_scrivere_Curione_LP_Alphabet"
+                ]
+            },
+            "height": 1054,
+            "width": 1375,
+            "items": [
+                {
+                    "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/16_Il_modo_di_scrivere_Curione_LP_Alphabet/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/16_Il_modo_di_scrivere_Curione_LP_Alphabet/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/16_Il_modo_di_scrivere_Curione_LP_Alphabet/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 43,
+                                                "height": 33
+                                            },
+                                            {
+                                                "width": 86,
+                                                "height": 66
+                                            },
+                                            {
+                                                "width": 172,
+                                                "height": 132
+                                            },
+                                            {
+                                                "width": 344,
+                                                "height": 264
+                                            },
+                                            {
+                                                "width": 688,
+                                                "height": 527
+                                            },
+                                            {
+                                                "width": 1375,
+                                                "height": 1054
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1375,
+                                        "@id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/16_Il_modo_di_scrivere_Curione_LP_Alphabet",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1054,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/16_Il_modo_di_scrivere_Curione_LP_Alphabet/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://MultimedialitySummerSchool.github.io/GirolamaParasoleOnline/images/6_Specchio_delle_virtuose_donne_Isabella_Sample_page_puntoreticella/canvas/",
             "type": "Canvas",
             "label": {
